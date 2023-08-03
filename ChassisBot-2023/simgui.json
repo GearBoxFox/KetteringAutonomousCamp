@@ -1,0 +1,30 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Shuffleboard/COmmands/Balance": "Command",
+      "/Shuffleboard/Drivetrain/Drive Mode": "String Chooser",
+      "/Shuffleboard/Main Dashboard/Preconfigured Bots/Linked Inline Aux Motors |Triggers|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Bots/Linked Opposing Aux Motors |Triggers|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Bots/Seperated Aux Motors |A-Y, Triggers|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Intakes |A-Y|/Dual Inline Motors |PWM 4-5|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Intakes |A-Y|/Dual Opposing Motors |PWM 4-5|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Intakes |A-Y|/Reverse Direction": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Intakes |A-Y|/Single Motor |PWM 4|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Shooters |Triggers|/Dual Inline Motors |PWM 6-7|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Shooters |Triggers|/Dual Opposing Motors |PWM 6-7|": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Shooters |Triggers|/Reverse Direction": "Command",
+      "/Shuffleboard/Main Dashboard/Preconfigured Shooters |Triggers|/Single Motor |PWM 6|": "Command",
+      "/Shuffleboard/Main Dashboard/Quick Drive Modes/Arcade": "Command",
+      "/Shuffleboard/Main Dashboard/Quick Drive Modes/Swap Front-Back": "Command",
+      "/Shuffleboard/Main Dashboard/Quick Drive Modes/Tank": "Command",
+      "/Shuffleboard/PWM4/Buttons": "String Chooser",
+      "/Shuffleboard/PWM5/Buttons": "String Chooser",
+      "/Shuffleboard/PWM6/Buttons": "String Chooser",
+      "/Shuffleboard/PWM7/Buttons": "String Chooser",
+      "/Shuffleboard/PWM8/Buttons": "String Chooser",
+      "/Shuffleboard/PWM9/Buttons": "String Chooser",
+      "/SmartDashboard/Auton Selector": "String Chooser"
+    }
+  }
+}
