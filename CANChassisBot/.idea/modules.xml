@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CANChassisBot.iml" filepath="$PROJECT_DIR$/.idea/modules/CANChassisBot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CANChassisBot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CANChassisBot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KetteringAutonomousCamp.CANChassisBot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KetteringAutonomousCamp.CANChassisBot.main.iml" />
     </modules>
   </component>
 </project>

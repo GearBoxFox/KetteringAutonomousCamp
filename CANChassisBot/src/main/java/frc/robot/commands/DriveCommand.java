@@ -34,7 +34,7 @@ public class DriveCommand extends CommandBase {
   // Called every time the scheduler runs while the command is scheduled.
   @Override
   public void execute() {
-    m_subsystem.drive(m_js.getRawAxis(0) * .75, -m_js.getRawAxis(1) * .75);
+    m_subsystem.drive(m_js.getRawAxis(0) * .25, -m_js.getRawAxis(1) * .25);
   }
 
   // Called once the command ends or is interrupted.

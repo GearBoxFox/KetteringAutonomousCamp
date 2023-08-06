@@ -59,7 +59,7 @@ public class DriveSubsystem extends SubsystemBase {
             m_io::resetPose,
             ramset,
             new DifferentialDriveKinematics(Units.inchesToMeters(13)),
-            m_io::setWheelVoltage,
+            m_io::setWheelSpeeds,
             eventMap,
             true
       );
